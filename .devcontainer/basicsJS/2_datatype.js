@@ -14,8 +14,8 @@ let age = 18
 let isLoggedIn = false
 let state;
 
-// number => 2 to power 53
-// bigint
+// type of datatypes are : number => 2 to power 53
+// bigint- this is use for big number use case. like sharemarket website. or any other website
 // string => ""
 // boolean => true/false
 // null => standalone value
